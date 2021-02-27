@@ -6,5 +6,5 @@ package sss.www.aqq.YTIDD;
  */
 public class Ssssas123 {
 
-
+  wya
 }
